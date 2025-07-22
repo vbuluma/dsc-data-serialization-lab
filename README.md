@@ -156,7 +156,7 @@ world_cup_file.close()
 Make sure the `assert` passes, ensuring that `world_cup_data` has the correct type.
 
 
-```python
+```python.
 # Run this cell without changes
 
 # Check that the overall data structure is a dictionary
